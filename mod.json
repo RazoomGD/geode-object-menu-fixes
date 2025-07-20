@@ -1,0 +1,14 @@
+{
+	"geode": "4.5.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "razoom.omfni",
+	"name": "Object Menu Fixes & Improvements",
+	"version": "v1.0.0",
+	"developer": "RaZooM",
+	"description": "qwefgb"
+}
