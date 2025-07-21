@@ -184,9 +184,6 @@ class $modify(MyEditorUI, EditorUI) {
 
 		}
 
-		// todo: change NOT POSITION BUT ANCHOR POINT (def pos = {20, 22})
-		
-		
 		switch (id) { // 21, 19
 			case 4380: // top
 			case 2488:
@@ -290,8 +287,6 @@ class $modify(MyEditorUI, EditorUI) {
 				"{", obj->m_objectID, "{", scX1, scY1, anc1.x, anc1.y, "}}"
 			);
 		}
-
-		// todo: check all at the lower textures
 
 		return btn;
 	}

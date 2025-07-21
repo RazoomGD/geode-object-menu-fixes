@@ -15,7 +15,7 @@ This mod makes fixes for more than 300 objects. Here are some examples of them:
 | ![alt text](assets/README/1753030356503_image.png) | ![alt text](assets/README/1753030363828_image.png) |
 
 
-## Fixed objects that were to close to the button corners
+## Fixed objects that were to close to the button edges
 
 | **Before**                                         | **After**                                          |
 | -------------------------------------------------- | -------------------------------------------------- |

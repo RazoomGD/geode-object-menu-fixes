@@ -10,5 +10,10 @@
 	"name": "Object Menu Fixes & Improvements",
 	"version": "v1.0.0",
 	"developer": "RaZooM",
-	"description": "qwefgb"
+	"description": "Fixes for the broken objects of editor object menu",
+	"links": {
+		"source": "https://github.com/RazoomGD/geode-object-menu-fixes",
+		"community": "https://discord.gg/wcWvtKHP8n"
+	},
+	"tags": ["bugfix", "editor"]
 }
