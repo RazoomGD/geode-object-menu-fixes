@@ -2,8 +2,10 @@
 
 *by RaZooM*
 
+![logo](logo.png)
 
-This mod makes fixes for more than 300 objects. Here are some examples of them:
+
+This mod makes fixes for more than 300 objects that are displayed incorrectly in object menu in editor. Here are some examples of them:
 
 ## Fixed objects that go beyond the button boundaries
 
@@ -15,7 +17,7 @@ This mod makes fixes for more than 300 objects. Here are some examples of them:
 | ![alt text](assets/README/1753030356503_image.png) | ![alt text](assets/README/1753030363828_image.png) |
 
 
-## Fixed objects that were to close to the button edges
+## Fixed pixel objects scaling
 
 | **Before**                                         | **After**                                          |
 | -------------------------------------------------- | -------------------------------------------------- |
@@ -23,7 +25,7 @@ This mod makes fixes for more than 300 objects. Here are some examples of them:
 | ![alt text](assets/README/1753030442515_image.png) | ![alt text](assets/README/1753030458326_image.png) |
 
 
-## Fixed pixel objects scaling
+## Fixed objects that were to close to the button edges
 
 | **Before**                                         | **After**                                          |
 | -------------------------------------------------- | -------------------------------------------------- |
